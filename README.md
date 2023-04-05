@@ -1,5 +1,5 @@
-# New-Wheels
-
+# New Wheels
+![](images/New%20Wheels%20logo.png)
 **Business Context:**<br />
 A lot of people in the world share a common desire: to own a vehicle. A car or an automobile is seen as an object that gives the freedom of mobility. Many are now preferring pre-owned vehicles because they come at an affordable cost, but at the same time, they are also concerned about whether the after-sales service provided by the resale vendors is as good as the care you may get from the actual manufacturers. *New Wheels*, a vehicle resale company, has launched an app with an end-to-end service from listing the vehicle on the platform to shipping it to the customer's location. This app also captures the overall after-sales feedback given by the customer.
 
@@ -8,3 +8,9 @@ New Wheels sales have been dipping steadily in the past year, and due to critica
 
 **Objective:**<br />
 As a data scientist, you see that there is an array of questions that are being asked at the leadership level that needs to be answered using data. Import the dump file that contains various tables that are present in the database. Use the data to answer the questions posed and create a quarterly business report for the CEO.
+
+**MySQL Work:**<br />
+Data queries from MySQL can be found [here](solution/submission_Derrick_Black.sql).
+
+**Quarterly Business Report:**<br />
+Business metrics, insights, and recommendations were given in the [Quarterly Business Report](solution/submission_Derrick_Black_Slides.pdf).
