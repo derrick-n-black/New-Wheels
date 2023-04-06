@@ -9,7 +9,7 @@ New Wheels sales have been dipping steadily in the past year, and due to critica
 **Objective:**<br />
 As a data scientist, you see that there is an array of questions that are being asked at the leadership level that needs to be answered using data. Import the dump file that contains various tables that are present in the database. Use the data to answer the questions posed and create a quarterly business report for the CEO.
 
-**MySQL Work:**<br />
+**MySQL Queries:**<br />
 Data queries from MySQL can be found [here](solution/submission_Derrick_Black.sql).
 
 **Quarterly Business Report:**<br />
